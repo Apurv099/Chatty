@@ -40,7 +40,7 @@ This is a full-stack realtime chat application built with **Next.js**, **Express
 
 ```bash
 git clone https://github.com/Apurv099/Chatty.git
-cd chatty
+cd Chatty
 ```
 
 ### 2. Start the Application
